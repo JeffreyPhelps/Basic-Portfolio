@@ -39,7 +39,7 @@ body {
 
 #topNav {
 	float: left;
-	margin-left: 475px;
+	margin-left: 325px;
 	padding: 10px;
 	color: #e5e5e5;
 }
@@ -61,15 +61,15 @@ body {
 #mainBox {
 	float: left;
 	background-color: #FFFFFF;
-	height: 580px;
-	width: 700px;
+	height: 600px;
+	width: 550px;
 	margin: 30px 30px 30px 150px;
 }
 
 #mainContents {
 	margin-top: 30px;
 	margin-left: 20px;
-	width: 94%;
+	width: 92%;
 }
 
 #mainTitle {
@@ -109,66 +109,67 @@ body {
 /*  portfolio page  */
 
 #portImg1 {
-	height: 195px;
-	width: 195px;
+	height: 150px;
+	width: 150px;
 	background-image: url("http://lorempixel.com/195/195/");
 	float: left;
-	margin-top: 30px;
-	margin-right: 33px;
+	margin-top: 50px;
+	margin-right: 27px;
 }
 
 #portImg2 {
-	height: 195px;
-	width: 195px;
+	height: 150px;
+	width: 150px;
 	background-image: url("http://lorempixel.com/195/195/");
 	float: left;
-	margin-top: 30px;
-	margin-right: 33px;
+	margin-top: 50px;
+	margin-right: 27px;
 }
 
 #portImg3 {
-	height: 195px;
-	width: 195px;
+	height: 150px;
+	width: 150px;
 	background-image: url("http://lorempixel.com/195/195/");
 	float: left;
-	margin-top: 30px;
+	margin-top: 50px;
 }
 
 #portImg4 {
-	height: 195px;
-	width: 195px;
+	height: 150px;
+	width: 150px;
 	background-image: url("http://lorempixel.com/195/195/");
 	float: left;
-	margin-top: 20px;
-	margin-right: 33px;
+	margin-top: 40px;
+	margin-right: 27px;
 }
 
 #portImg5 {
-	height: 195px;
-	width: 195px;
+	height: 150px;
+	width: 150px;
 	background-image: url("http://lorempixel.com/195/195/");
 	float: left;
-	margin-top: 20px;
-	margin-right: 33px;
+	margin-top: 40px;
+	margin-right: 27px;
 }
 
 #portImg6 {
-	height: 195px;
-	width: 195px;
+	height: 150px;
+	width: 150px;
 	background-image: url("http://lorempixel.com/195/195/");
 	float: left;
-	margin-top: 20px;
+	margin-top: 40px;
 }
 
 #portText {
-	margin-top: 150px;
+	margin-top: 110px;
 	padding: 10px;
-	height: 20px;
+	height: 15px;
 	width: auto;
-	background-color: #4aaaa5;
+	background-color: rgba(74, 170, 165, 0.7);
+	opacity: 50%;
 	color: #fff;
 	font-family: 'Georgia', Times, Times New Roman, serif;
-	font-size: 15px;
+	font-size: 12px;
 	text-align: center;
 }
 
