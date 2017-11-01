@@ -61,7 +61,7 @@ body {
 #mainBox {
 	float: left;
 	background-color: #FFFFFF;
-	height: 600px;
+	height: 610px;
 	width: 550px;
 	margin: 30px 30px 30px 150px;
 }
@@ -70,6 +70,8 @@ body {
 	margin-top: 30px;
 	margin-left: 20px;
 	width: 92%;
+	font-size: 15px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 #mainTitle {
@@ -96,10 +98,7 @@ body {
 
 #mainText {
 	margin-top: 25px;
-	color: ##777777;
-	font-size: 17px;
-	font-weight: normal;
-	font-family: sans-serif;
+
 }
 
 #mainText, h3 {
