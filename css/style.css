@@ -264,7 +264,7 @@ input[type=submit]:hover {
 /*  BEGIN STICKY FOOTER  */
 
 #stickyFooterWrapper {
-	min-height: calc(100vh - 97px);
+	min-height: calc(100vh - 0px);
 }
 
 #footer {
@@ -273,6 +273,7 @@ input[type=submit]:hover {
 	border-top: solid 7px #4aaaa5;
 	text-align: center;
 	color: #e5e5e5;
+	clear: both;
 }
 
 #footerText {
